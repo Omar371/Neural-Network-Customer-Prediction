@@ -1,6 +1,5 @@
 # Predicting Car Purchase Possibility by Customers Using Tuned Neural Network
 
-ECE9603/9063: Data Analytics Foundations
 
 Abstract—The problem that is discussed in this project aims to predict whether a specific person is most likely to buy a car or not based on their information. Predicting the likelihood of customers to purchase
 cars helps companies to identify which groups of people are least likely to buy cars and target their
