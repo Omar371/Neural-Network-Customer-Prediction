@@ -15,7 +15,7 @@ New Car Sales in Norway, Monthly car sales for 2007-2017 by make and most popula
 * Publicly available at: https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset 
 
 ## Code
-* [NeuralNetwork-Prediction-Code.ipynb](https://github.com/Omar371/Neural-Network-Customer-Prediction/blob/master/NeuralNetwork-Prediction-Code.ipynb): code for processing, analyzing initial data and training SARIMA, SVG, and XGboost models
+* [NeuralNetwork-Prediction-Code.ipynb](https://github.com/Omar371/Neural-Network-Customer-Prediction/blob/master/NeuralNetwork-Prediction-Code.ipynb): code for processing, analyzing initial data and training MLP and SGD models
 
 ### Machine Learning Algorithms 
 * Stochastic Gradient Descent Classifier (SGD)
